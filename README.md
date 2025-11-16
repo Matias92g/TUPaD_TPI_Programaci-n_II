@@ -62,8 +62,8 @@ El dominio modela una empresa ficticia que administra pedidos de clientes y coor
 
 3. Credenciales de prueba
 - Usuario: root
-- Contraseña: (vacía)
-- Base de datos: TPIntegrador
+- Contraseña: `123`
+- Base de datos: LogisticaEnvios
 
 
 ## Enlace al video 
