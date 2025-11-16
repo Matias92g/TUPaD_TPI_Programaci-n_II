@@ -35,7 +35,7 @@ El dominio modela una empresa ficticia que administra pedidos de clientes y coor
    - `Envio`
 3. Verificá que la base se haya creado correctamente:
    ```sql
-   SHOW TABLES FROM TPIntegrador;
+   SHOW TABLES FROM logisticaenvios;
 
 
  Compilación y ejecución
